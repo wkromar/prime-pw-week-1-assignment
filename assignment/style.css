@@ -1,3 +1,53 @@
+body {
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+footer {
+  color: red;
+  width: 800px;
+  padding: 20px;
+  background-color: thistle;
+  font-style: italic;
+  clear: both;
+  position: relative;
+  height: 50px;
+  margin-top: -200px;
+  border-radius: 8px;
+}
+header {
+  color: orange;
+  display: inline-block;
+  width: 800px;
+  padding: 20px;
+  background-color: blueviolet;
+  font-style: italic;
+  clear: both;
+  position: relative;
+  height: 50px;
+  border-radius: 8px;
+}
+.Title {
+  text-align: center;
+}
+img {
+  border: 5px solid greenyellow;
+  border-radius: 8px;
+  width: 240px;
+  height: 220px;
+  float: right;
+}
+p {
+  position: relative;
+  height: 200px;
+  margin-top: -200px;
+  text-align: left;
+}
+.list {
+  font: comic;
+  color: white;
+  text-align: left;
+}
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
